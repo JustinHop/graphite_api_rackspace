@@ -1,0 +1,5 @@
+Run `sphinx-apidoc -o . ../../graphite_api_rackspace' in this directory.
+
+This will generate `modules.rst' and `graphite_api_rackspace.rst'.
+
+Then include `modules.rst' in your `index.rst' file.
